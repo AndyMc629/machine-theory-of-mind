@@ -9,7 +9,23 @@ The DeepMind implementation doesn't mention specific technologies used, so I hav
 - Google Colab 
 
 ## Repository Structure
-There are a few pieces to this project so the repo will be structured 
+There are a few pieces to this project so I suggest the repo will be structured roughly like this [example](https://drivendata.github.io/cookiecutter-data-science/)
+
+|-- README.md<br/>
+|-- notebooks <br/>
+|-- docs<br/>
+|-- models<br/>
+   >|-- experiment1s<br/>
+    |-- experiment2s<br/>
+    |-- experiment3s<br/>
+    |-- characternetss<br/>
+    |-- mentalnetss<br/>
+|-- src<br/>
+    |-- `__`init`__`.py<br/>
+    |--<br/>
+|-- data<br/>
+    |-- gridworld<br/>
+    |-- random-agents<br/>
 
 ## Workflow
 Will use a worklflow and set up like that suggested [here](https://zerowithdot.com/colab-github-workflow/).
