@@ -9,7 +9,7 @@ The DeepMind implementation doesn't mention specific technologies used, so I hav
 - Google Colab 
 
 ## Repository Structure
-There are a few pieces
+There are a few pieces to this project so the repo will be structured 
 
 ## Workflow
 Will use a worklflow and set up like that suggested [here](https://zerowithdot.com/colab-github-workflow/).
@@ -22,8 +22,7 @@ Will use a worklflow and set up like that suggested [here](https://zerowithdot.c
 
 - [World Models](https://worldmodels.github.io)
 
-- [DeepMind Research] repository (https://github.com/deepmind/deepmind-research)
-
+- [DeepMind Research](https://github.com/deepmind/deepmind-research) repository 
 
 ## People
 Collaborators on the technical implementation side of the project
