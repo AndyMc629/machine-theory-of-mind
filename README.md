@@ -7,25 +7,36 @@ The DeepMind implementation doesn't mention specific technologies used, so I hav
 - Python
 - Tensorflow
 - Google Colab 
+- OpenAI Gym (for at least simple agents and worlds)
 
 ## Repository Structure
-There are a few pieces to this project so I suggest the repo will be structured roughly like this [example](https://drivendata.github.io/cookiecutter-data-science/)
+There are a few pieces to this project so I suggest the repo will be structured roughly like this [example](https://drivendata.github.io/cookiecutter-data-science/). Note this will be added to as the project progresses and should by no means be considered complete.
 
-|-- README.md<br/>
-|-- notebooks <br/>
-|-- docs<br/>
-|-- models<br/>
-   >|-- experiment1s<br/>
-    |-- experiment2s<br/>
-    |-- experiment3s<br/>
-    |-- characternetss<br/>
-    |-- mentalnetss<br/>
-|-- src<br/>
-    |-- `__`init`__`.py<br/>
-    |--<br/>
-|-- data<br/>
-    |-- gridworld<br/>
-    |-- random-agents<br/>
+```bash
+|-- README.md
+|-- notebooks 
+|-- docs
+|-- data
+    |-- gridworld
+    |-- agents
+|-- models
+    |-- character_nets
+    |-- mental_nets
+    |-- prediction_nets
+|-- src
+    |-- __init__.py
+    |-- simulation
+         |-- __init__.py
+         |-- gridworld
+         |-- agents
+            |-- random
+            |-- 
+    |-- data
+         |-- __init__.py
+         |-- preprocess
+            |-- spatconc.py (perform spatialisation concatenation, take actions from sims and tile over space to create appropriate traj's)
+ 
+```
 
 ## Workflow
 Will use a worklflow and set up like that suggested [here](https://zerowithdot.com/colab-github-workflow/).
@@ -43,6 +54,6 @@ Will use a worklflow and set up like that suggested [here](https://zerowithdot.c
 ## People
 Collaborators on the technical implementation side of the project
 
-- Andy McMahon
+- [Andy McMahon](https://www.linkedin.com/in/andymcmahon629/)
 - Sofia Jativa (FHI, University College London)
-- Stuart Russel (FHI, University of Oxford)
+- [Stuart Armstrong](https://www.fhi.ox.ac.uk/team/stuart-armstrong/) (FHI, University of Oxford)
