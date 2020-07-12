@@ -32,7 +32,7 @@ There are a few pieces to this project so I suggest the repo will be structured 
          |-- agents
             |-- random
             |-- 
-    |-- data
+    |-- util
          |-- __init__.py
          |-- preprocess
             |-- spatconc.py (perform spatialisation concatenation, take actions from sims and tile over space to create appropriate traj's)
