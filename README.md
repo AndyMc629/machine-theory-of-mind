@@ -48,7 +48,7 @@ Will use a worklflow and set up like that suggested [here](https://zerowithdot.c
 - [Advanced Deep Learning and Reinforcement Learning DeepMind](https://github.com/Zhenye-Na/advanced-deep-learning-and-reinforcement-learning-deepmind)
 - [World Models](https://worldmodels.github.io)
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) repository 
-- Arthur Juliani's [posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc) on Medium are always super helpful
+- Arthur Juliani's [posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc) on Medium are always super helpful, as is his [code](https://github.com/awjuliani/DeepRL-Agents)
 - DeepMind AI safety in gridworlds [post](https://deepmind.com/blog/article/specifying-ai-safety-problems) (along with code)
 
 ## People
