@@ -8,6 +8,7 @@ The DeepMind implementation doesn't mention specific technologies used, so I hav
 - Tensorflow
 - Google Colab 
 - OpenAI Gym (for at least simple agents and worlds)
+- DeepMind [AI Safety GridWorlds](https://github.com/deepmind/ai-safety-gridworlds)
 
 ## Repository Structure
 There are a few pieces to this project so I suggest the repo will be structured roughly like this [example](https://drivendata.github.io/cookiecutter-data-science/). Note this will be added to as the project progresses and should by no means be considered complete.
