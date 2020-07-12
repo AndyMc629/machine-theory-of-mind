@@ -44,13 +44,10 @@ Will use a worklflow and set up like that suggested [here](https://zerowithdot.c
 ## Related Resources
 
 - [Blog post](https://www.google.co.uk/amp/s/pillowlab.wordpress.com/2019/01/28/machine-theory-of-mind/amp/) on Machine Theory of Mind 
-
 - [Advanced Deep Learning and Reinforcement Learning DeepMind](https://github.com/Zhenye-Na/advanced-deep-learning-and-reinforcement-learning-deepmind)
-
 - [World Models](https://worldmodels.github.io)
-
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) repository 
-
+- Arthur Juliani's [posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc) on Medium are always super helpful
 ## People
 Collaborators on the technical implementation side of the project
 
