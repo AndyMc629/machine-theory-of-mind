@@ -20,18 +20,21 @@ There are a few pieces to this project so I suggest the repo will be structured 
 |-- data
     |-- gridworld
     |-- agents
-|-- models
-    |-- character_nets
-    |-- mental_nets
-    |-- prediction_nets
-|-- src
+|-- mindlab
     |-- __init__.py
+    |-- models
+    |-- nets
+        |-- character
+        |-- mental
+        |-- prediction
     |-- simulation
          |-- __init__.py
-         |-- gridworld
+         |-- environments
+            |-- gridworld
          |-- agents
-            |-- random
-            |-- 
+            |-- random.py
+            |-- greedy.py
+            |-- deeprl.py
     |-- util
          |-- __init__.py
          |-- preprocess
